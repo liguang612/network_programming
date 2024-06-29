@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "fstream": "cpp",
+    "xiosbase": "cpp",
+    "string.h": "c",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "xlocmes": "cpp",
+    "iosfwd": "cpp"
+  }
+}
